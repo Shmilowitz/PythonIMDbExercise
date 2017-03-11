@@ -6,11 +6,16 @@ CSV File
 -------
 The CSV file can be found in the on this github link. Use the CSV file attached so every group analyzes the same data.
 The CSV file contains the following headers:
-* title -- `hey`
-* year
-* length
-* budget         
-* Questions
+* title `Title of the movie`
+* year `Year the movie was released`
+* length `Length of the movie in minutes`
+* budget `Cost of the movie`
+* rating `The average rating(Rating listed on IMDb)`
+* votes `Amount of votes given`
+* r1-r10 `Possibility of rating given from 1 Rating to 10 Rating. Should add up to 100, but due to rounding it doesnot sum up exactly`
+* mpaa(Motion Picture Association of America) `https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system`
+* Genres(Action,Animation,Comedy,Drama,Documentary,Romance,Short) `Which genre the film is(Can be multiple)`   
+Questions
 -------
 * 1. Create histograms of rating, year, length and length of title
 * 2. Create a graph showing both year and amount of movies made. 
