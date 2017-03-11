@@ -14,7 +14,8 @@ The CSV file contains the following headers:
 * votes `Amount of votes given`
 * r1-r10 `Possibility of rating given from 1 Rating to 10 Rating. Should add up to 100, but due to rounding it doesnot sum up exactly`
 * mpaa(Motion Picture Association of America) `https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system`
-* Genres(Action,Animation,Comedy,Drama,Documentary,Romance,Short) `Which genre the film is(Can be multiple)`   
+* Genres(Action,Animation,Comedy,Drama,Documentary,Romance,Short) `Which genre the film is(Can be multiple)`  
+
 Questions
 -------
 * 1. Create histograms of rating, year, length and length of title
