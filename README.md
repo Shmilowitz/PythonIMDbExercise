@@ -1,4 +1,3 @@
-![picture alt](https://sandmafia.files.wordpress.com/2015/07/imdb.jpg "Title is optional")
 Synopsis
 =============
 This exercise uses a dataset from IMDb ranging from age 1893 to 2005. Your tasks is to analyze the data and draw conclusion with your results.(Think historicaly)
@@ -24,3 +23,5 @@ Questions
 3. Make a scatter-plot with year and length of movies. (Try to find clusters and explain them. Wild guesses are accepted) 
 4. Create a median line for the scatter-plot made in Question 3
 5. Make a scatter plot of: Length,year and if the movie is animated or not. Explain the connections between the different axis.
+
+![picture alt](https://sandmafia.files.wordpress.com/2015/07/imdb.jpg "Title is optional")
