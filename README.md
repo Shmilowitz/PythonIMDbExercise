@@ -1,4 +1,4 @@
-![picture alt](http://i.imgur.com/OlYzwSW.jpg "Title is optional")
+![picture alt](http://i.imgur.com/OlYzwSW.jpg "README-Picture")
 Synopsis
 =============
 This exercise uses a dataset from IMDb ranging from age 1893 to 2005. Your tasks is to analyze the data and draw conclusion with your results(Think historicaly).
