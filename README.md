@@ -5,7 +5,8 @@ This exercise uses a dataset from IMDb ranging from age 1893 to 2005. Your tasks
 
 CSV File
 -------
-The CSV file can be found in the on this github link. Use the CSV file attached so every group analyzes the same data.
+The CSV file can be found on http://vincentarelbundock.github.io/Rdatasets/csv/ggplot2/movies.csv. (Same dataset has been uploaded to this repo)  
+Use the CSV file attached so every group analyzes the same data.
 The CSV file contains the following headers:
 * title `Title of the movie`
 * year `Year the movie was released`
